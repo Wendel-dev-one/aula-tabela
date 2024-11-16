@@ -1,0 +1,11 @@
+th, td {
+    border: 1px solid black;
+}
+
+tfoot {
+    background-color: cyan;
+}
+
+th {
+    background-color: grey;
+}
